@@ -1,7 +1,9 @@
 body{
     background-color: bisque;
+    background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
+    color: bisque;
 }
 h1 {
     color: coral;
